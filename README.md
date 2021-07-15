@@ -3,7 +3,8 @@ Text Mining - NLP Big Data project
 
 All relevant dataset information for Amazon Product Reviews for Magazine Subscriptions can be found here:
 http://deepyeti.ucsd.edu/jianmo/amazon/index.html
-Direct Download Link: http://deepyeti.ucsd.edu/jianmo/amazon/categoryFiles/Magazine_Subscriptions.json.gz
+
+ Direct Download Link: http://deepyeti.ucsd.edu/jianmo/amazon/categoryFiles/Magazine_Subscriptions.json.gz
 
 After downloading the .gz file, extract the .json file to your local directory.
 
